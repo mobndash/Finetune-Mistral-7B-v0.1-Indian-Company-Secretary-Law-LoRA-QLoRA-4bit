@@ -1,0 +1,9 @@
+transformers
+datasets
+peft
+accelerate
+bitsandbytes==0.43.3
+acclelerate
+peft
+trl
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
